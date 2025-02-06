@@ -82,7 +82,7 @@ A **JSON object** containing:
    git push origin main
    ```
 2. Submit the **GitHub repository link** on the assignment page.  
-   The link should follow this format:  
+   The link should follow this format:    
    **`https://github.com/<your_username>/<repository_name>`**
 
 ---
